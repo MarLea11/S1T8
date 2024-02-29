@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4fe1793-ede1-4902-a0e5-3b3c899d9611" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX1/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX4/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX5/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX5/PiValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX6/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX7/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX8/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/N1EX8/ReverseString.java" afterDir="false" />
+    <list default="true" id="b4fe1793-ede1-4902-a0e5-3b3c899d9611" name="Changes" comment="V 1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/N1EX8/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/N1EX8/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708507386051</updated>
     </task>
+    <task id="LOCAL-00001" summary="V 1.0">
+      <option name="closed" value="true" />
+      <created>1708684639945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708684639945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V 1.0" />
   </component>
 </project>
